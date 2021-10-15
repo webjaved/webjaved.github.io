@@ -25,7 +25,7 @@ img {
 }
 
 body {
-    background: url(/images/pattern-background-mobile.svg), var(--clr-primary-pale-blue);
+    background: url(/order-summary-component/images/pattern-background-mobile.svg), var(--clr-primary-pale-blue);
     background-repeat: no-repeat;
     background-size: contain;
     display: grid;
@@ -208,7 +208,7 @@ footer .attribution a:focus {
 
 @media (min-width: 450px) {
     body {
-        background: url(/images/pattern-background-desktop.svg), var(--clr-primary-pale-blue);
+        background: url(/order-summary-component/images/pattern-background-desktop.svg), var(--clr-primary-pale-blue);
         background-repeat: no-repeat;
         background-size: contain;
     }
